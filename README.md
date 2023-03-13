@@ -12,7 +12,6 @@ The minimal config is:
 ```hcl
 module "explore-honeycombio-kubernetes-starter-pack" {
   source = "honeycombio/kubernetes-starter-pack/honeycombio"
-  #FIXME 
 }
 ```
 
